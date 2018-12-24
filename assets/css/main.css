@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600");
+	@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600");
 @import url("font-awesome.min.css");
 
 /*
@@ -384,7 +384,7 @@ input, select, textarea {
 			}
 
 			#main .item.intro {
-				background-color: #000000;
+				background-color: #CC0000;
 				background-image: url("images/overlay.png");
 				display: -moz-flex;
 				display: -webkit-flex;
