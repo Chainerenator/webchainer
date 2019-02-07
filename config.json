@@ -1,0 +1,8 @@
+{
+	"HttpHostAndPort":":8084",
+	"HttpsHostAndPort":":8085",
+	"HttpsUsage":"None",
+	"Url":"http://chainerweb.com:8084",
+	"HttpsUrl":"https://chainerweb.com:8085",
+	"UseLetsEncrypt":false
+}
